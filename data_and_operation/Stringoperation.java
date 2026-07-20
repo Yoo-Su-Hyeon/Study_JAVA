@@ -1,0 +1,11 @@
+public class Stringoperation {
+
+    public static void main(String[] args) {
+
+        System.out.println("Hello World".length()); // 11글자
+        System.out.println("Hello, [[[name]]] ... bye. ".replace("[[[name]]]", "duru"));
+
+    }
+
+} 
+    
